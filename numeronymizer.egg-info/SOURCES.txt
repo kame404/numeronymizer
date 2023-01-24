@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+numeronymizer/__init__.py
+numeronymizer.egg-info/PKG-INFO
+numeronymizer.egg-info/SOURCES.txt
+numeronymizer.egg-info/dependency_links.txt
+numeronymizer.egg-info/top_level.txt
